@@ -14,7 +14,7 @@ spec:
     path: charts/podinfo
     ref: master
   values:
-    image: rafalmurban/podinfo:dev-aczck3kq
+    image: rafalmurban/podinfo:dev-a8sslt6b
     replicaCount: 1
     hpa:
       enabled: false
